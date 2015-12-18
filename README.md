@@ -1,2 +1,0 @@
-# gitDemo
-Git Demo
